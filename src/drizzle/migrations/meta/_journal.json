@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1756316690100,
+      "tag": "0000_faithful_harpoon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1759666848175,
+      "tag": "0001_ancient_triton",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1760279675180,
+      "tag": "0002_medical_sprite",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1760481240764,
+      "tag": "0003_panoramic_may_parker",
+      "breakpoints": true
+    }
+  ]
+}
