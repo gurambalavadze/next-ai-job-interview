@@ -1,0 +1,1 @@
+ALTER TABLE "jobInfo" ALTER COLUMN "userId" SET NOT NULL;
